@@ -3931,7 +3931,7 @@ ul.wide li{
     transform: translate(25%, 0px); */
     max-width: 210%;
     width: 140%;
-    margin-left: -180px;
+    /* margin-left: -180px; */
     margin-top: 10px;
   }
 
