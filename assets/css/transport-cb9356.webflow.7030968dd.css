@@ -2354,6 +2354,10 @@
      .service-text-half {
        padding-right: 100px;
      }
+
+     .navbar-container svg{
+      margin-left: 120px !important;
+    }
    
      .narrow-container {
        margin-left: 0px;
@@ -2376,6 +2380,10 @@
      .heading-1 {
        font-size: 5vw;
      }
+
+     .navbar-container svg{
+      margin-left: 120px !important;
+    }
    
      .wide-container {
        overflow: visible;
@@ -2558,6 +2566,9 @@
        position: relative;
        z-index: 5555;
      }
+     .navbar-container svg{
+      margin-left: 120px !important;
+    }
    
      .logo {
        width: 120px;
@@ -2927,6 +2938,9 @@
        width: 20vw;
        background-color: #fff;
      }
+     .navbar-container svg{
+      margin-left: 120px !important;
+      }
    }
    
    @media screen and (max-width: 991px) {
@@ -4212,6 +4226,10 @@
      .buttons {
        margin-top: -30px;
      }
+
+     .navbar-container svg{
+      margin-left: 40px !important;
+    }
    }
    
    @media screen and (max-width: 479px) {
